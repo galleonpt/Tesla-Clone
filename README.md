@@ -1,11 +1,20 @@
 # Tesla UI Clone
 
+## Final result
+
+https://snazzy-mandazi-c555b7.netlify.app/
+
 ## Tech Stack
 
 - React
 - Typescript
 - Styled Components
 - Framer Motion
+
+---
+
+- Responsiveness
+- Scroll animations
 
 ## References
 
